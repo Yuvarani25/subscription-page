@@ -1,8 +1,9 @@
 .col-12{
     background-color: rgb(199, 209, 209);
     padding: 50px;
-    margin:5px ;
+    margin:10px ;
     width:1100px;
+    height: 520px;
 }
     input[type=text]{
         width: 100%;
@@ -21,12 +22,17 @@ button{
   width: 100%;
 }
 .h{
+    
     background-color:white;
     padding: 10px;
+    margin: 0px 0px 30px 0px;
+    width:1300px;
 }
 .section{
     border: 1px solid black;
-    margin: 20px 20px;
+    height: 620px;
+    width:1400px;
+    margin:20px 0px 0px 80px;
   
     
 }
