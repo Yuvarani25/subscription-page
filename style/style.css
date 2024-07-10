@@ -1,0 +1,32 @@
+.col-12{
+    background-color: rgb(199, 209, 209);
+    padding: 50px;
+    margin:5px ;
+    width:1100px;
+}
+    input[type=text]{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+      }
+button{
+    background-color: #399576;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+ 
+  cursor: pointer;
+  width: 100%;
+}
+.h{
+    background-color:white;
+    padding: 10px;
+}
+.section{
+    border: 1px solid black;
+    margin: 20px 20px;
+  
+    
+}
